@@ -38,13 +38,3 @@ This repository shares high-quality free courses and learning paths designed to 
   ✅ Focus: Real-World Data Cleaning, Visualization, and Model Building
 
 ---
-
-## 🎯 Suggested Learning Path
-- **Weeks 1-2:** Math and Python Basics (Complete DataCamp modules or CS50 introduction)
-- **Weeks 3-4:** Complete Andrew Ng’s ML Course + Start a Kaggle project
-- **Weeks 5-6:** Build a Portfolio Project (e.g., Kaggle Competition or DataCamp Project) and share on GitHub
-- **Long-Term:** Regularly update your GitHub with new projects and learning notes
-
----
-
-Happy Learning! 🚀
